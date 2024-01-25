@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anish</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish6964" alt="anish6964" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anish6964?tab=overview&from=2024-01-01&to=2024-01-12](https://github.com/Anish6964?tab=overview&from=2024-01-01&to=2024-01-12)
