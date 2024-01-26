@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Welcome to my digital art gallery! About Me:
 🔭 I’m currently working on MERN stack Projects<br>🌱 I’m currently learning MERN STACK and DSA<br>
 
 
